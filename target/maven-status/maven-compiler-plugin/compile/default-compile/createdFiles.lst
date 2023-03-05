@@ -1,0 +1,6 @@
+model\Faturamento.class
+service\LeitorArquivoJson.class
+service\LeitorArquivoXml.class
+service\LeitorArquivo.class
+service\FaturamentoService.class
+Application.class
